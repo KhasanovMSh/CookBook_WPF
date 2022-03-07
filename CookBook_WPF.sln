@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookBook_WPF", "CookBook_WPF\CookBook_WPF.csproj", "{29D5EB97-1B8D-426F-9868-2CD6B8575051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{9F76A1B9-453C-486D-94E9-8CDEA0876973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{BC88C9CC-3858-4E18-BDCB-D293A04DCE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D5EB97-1B8D-426F-9868-2CD6B8575051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D5EB97-1B8D-426F-9868-2CD6B8575051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D5EB97-1B8D-426F-9868-2CD6B8575051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D5EB97-1B8D-426F-9868-2CD6B8575051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F76A1B9-453C-486D-94E9-8CDEA0876973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F76A1B9-453C-486D-94E9-8CDEA0876973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F76A1B9-453C-486D-94E9-8CDEA0876973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F76A1B9-453C-486D-94E9-8CDEA0876973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC88C9CC-3858-4E18-BDCB-D293A04DCE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC88C9CC-3858-4E18-BDCB-D293A04DCE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC88C9CC-3858-4E18-BDCB-D293A04DCE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC88C9CC-3858-4E18-BDCB-D293A04DCE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537E33E1-C0E6-4FCB-9ED1-540B4972240C}
+	EndGlobalSection
+EndGlobal
